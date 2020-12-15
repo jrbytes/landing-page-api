@@ -2,8 +2,12 @@
 
 A quick description of your strapi application
 
+## Start the project
 
-## Using docker
+Run application
+> yarn develop
+
+## Start the project with docker
 
 Run with docker compose file
 > docker-compose up -d
