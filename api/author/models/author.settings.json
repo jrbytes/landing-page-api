@@ -32,7 +32,7 @@
       "type": "component",
       "repeatable": true,
       "component": "page.social-links",
-      "required": false
+      "required": true
     },
     "description": {
       "type": "text",
